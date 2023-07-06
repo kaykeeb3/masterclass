@@ -26,4 +26,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 <br>
-- [Visite o projeto online]()
+
+- [Visite o projeto online](https://masterclass-five.vercel.app/)

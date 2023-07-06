@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/2254731/219364698-e4281309-b996-4de9-8aa7-8db5df9370ba.png" />
+  <img width="750" src="https://user-images.githubusercontent.com/2254731/219364698-e4281309-b996-4de9-8aa7-8db5df9370ba.png" />
 </p>
 
 ## 🚀 Tecnologias
